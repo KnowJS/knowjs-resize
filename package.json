@@ -11,5 +11,9 @@
   "dependencies": {
     "gm": "~1.14.2",
     "debug": "~0.8.0"
+  },
+  "devDependencies": {
+    "should": "~3.2.0",
+    "sinon": "~1.9.0"
   }
 }
